@@ -1,0 +1,15 @@
+header {
+    background-color: #f3e4de;
+}
+
+h1{
+    display: inline;
+    vertical-align: top;
+}
+
+h2{
+    font-size: 20px;
+    display: inline;
+    vertical-align: top;
+    text-align: left;
+}
